@@ -1,3 +1,53 @@
+# 👋 Who4mI
+
+> **오한결 / Ozzy**
+>
+> Security engineering learner in KR
+>
+> Malware Analysis · Reverse Engineering · Detection Engineering
+>
+> GitHub : [5asever40-a11y](https://github.com/5asever40-a11y)
+
+---
+
+## 🧑‍💻 I'm interested in Security Research
+
+Hi, I'm Han-gyeol — a security learner focused on malware analysis, reverse engineering,
+API-call based detection, and log-driven detection engineering.
+
+I enjoy turning security projects and labs into repeatable notes, scripts, and writeups.
+Recently, I have been studying malware behavior analysis, PinTool-based instrumentation,
+MITRE ATT&CK based detection scenarios, and Windows/AD security labs.
+
+---
+
+## ✨ Main Interests
+
+- Malware behavior analysis and detection logic
+- Reverse engineering for EXE/ELF and packed binaries
+- API-call offset analysis with PinTool
+- Anti-debugging and Anti-VM technique analysis
+- MITRE ATT&CK based attack/detection scenario modeling
+- SIEM-style log analysis with Splunk and ELK
+
+---
+
+## 🔐 Technical Skills
+
+- **Languages**: C, C++, Python
+- **Reversing**: IDA, x64dbg, pwndbg, PE/ELF analysis
+- **Malware Analysis**: anti-debugging, anti-VM, API tracing, behavior analysis
+- **Instrumentation**: PinTool, Frida
+- **Web/Security Labs**: Burp Suite, WSL, VMware, VirtualBox
+- **Detection**: Splunk, ELK, MITRE ATT&CK, correlation-rule thinking
+
+---
+
+## 🧪 Projects
+
+- **AI + PinTool malware detection**
+  - API-call offset pattern analysis for malware detection
+  - Dynamic/static feature extraction and detection-model experimentation
 
 - **Vaccine evasion and malware detection research**
   - WHS 3rd generation project
