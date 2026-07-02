@@ -2,17 +2,9 @@
 
 > **오한결 / Ozzy**
 >
-> 악성코드 분석 · 리버싱 · 탐지 엔지니어링을 공부하는 보안 엔지니어링 학습자입니다.
+> 악성코드 분석 · 리버싱 · 탐지 · 이벤트 엔지니어링을 공부하는 보안 엔지니어링 학습자입니다.
 >
 > GitHub: [5asever40-a11y](https://github.com/5asever40-a11y)
-
----
-
-## 탐지와 분석 사이에서 기록을 남깁니다
-
-저는 악성코드 분석, API 호출 기반 탐지, 리버스 엔지니어링, 그리고 로그 기반 탐지 엔지니어링에 관심이 있습니다.
-
-단순히 문제를 푸는 것보다, 분석 과정에서 확인한 증거와 판단 근거를 남기는 것을 중요하게 생각합니다. 최근에는 PinTool 기반 API 호출 오프셋 분석, MITRE ATT&CK 기반 공격 시나리오 모델링, Splunk/ELK 기반 로그 분석, Windows/AD 보안 실습을 중심으로 공부하고 있습니다.
 
 ---
 
@@ -114,11 +106,5 @@
 - 보안 실습 writeup 자동화와 재사용 가능한 분석 노트
 
 ---
-
-## 앞으로 채워갈 저장소
-
-1. `malware_detection_with_pintool_and_ai`
-2. `security-notes`
-3. `ctf-writeups`
 4. `detection-engineering-labs`
 5. `reverse-engineering-notes`
