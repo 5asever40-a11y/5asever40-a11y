@@ -1,79 +1,62 @@
-# Whoami
 
-> Oh Han-gyeol / Ozzy
->
-> Security engineering learner focused on malware analysis, detection engineering, and practical offensive security.
->
-> GitHub: [5asever40-a11y](https://github.com/5asever40-a11y)
+- **Vaccine evasion and malware detection research**
+  - WHS 3rd generation project
+  - Memory-based evasion behavior analysis and detection ideas
 
----
+- **MITRE ATT&CK / ELK detection scenario**
+  - Attack-chain modeling
+  - Log collection, correlation, and detection-rule design
 
-## About Me
-
-I study security through hands-on projects, CTFs, malware analysis, and log-based detection.
-My current interests are malware behavior analysis, API-call based detection, reverse engineering,
-Windows internals, and blue-team detection engineering with SIEM/ELK-style pipelines.
+- **Personal information leakage prevention**
+  - KoBERT + YOLO based real-time detection approach
+  - Text/image based sensitive-information detection
 
 ---
 
-## Focus Areas
+## 📌 Vulnerability Reports
 
-- Malware analysis and detection logic
-- Reverse engineering for EXE/ELF and packed binaries
-- API-call offset analysis with PinTool
-- Web and system security labs
-- MITRE ATT&CK based detection scenarios
-- Splunk/ELK log analysis and correlation rules
-
----
-
-## Technical Skills
-
-- Languages: C, C++, Python
-- Security: reversing, malware analysis, anti-debugging, anti-VM analysis, web vulnerability analysis
-- Tools: IDA, x64dbg, pwndbg, Frida, PinTool, Burp Suite, Splunk, ELK
-- Environment: Linux, WSL, VMware Workstation, VirtualBox, GitHub
+| Product / Target | Program / Organization | Summary |
+|---|---|---|
+| OpenHTJ2K | OpenHTJ2K maintainer | JPIPE server heap info leak and malicious JPP client-response heap write report |
+| OpenHTJ2K | OpenHTJ2K maintainer | PPM packet-header `pass_length[128]` heap overflow trigger report |
+| Vendor web service | FinderGap | `venue_code` manipulation issue affecting store-order creation |
+| V3 Lite | KISA | Self-protection bypass and vaccine-setting modification issue |
 
 ---
 
-## Projects
+## 📝 Research & Papers
 
-- Malware detection system using AI and PinTool based API-call offset analysis
-- Vaccine evasion and malware detection research in WHS 3rd generation project
-- MITRE ATT&CK and ELK based incident-response/detection scenario modeling
-- Real-time personal information leakage prevention system using KoBERT and YOLO
+- **AI and PinTool based API-call offset analysis for malware detection**
+  - Student paper on malware detection using API-call offset patterns
 
----
-
-## Research & Reports
-
-- Paper: AI and PinTool based API-call offset analysis for malware detection
-- Paper: Real-time personal information leakage prevention system using KoBERT and YOLO
-- Vulnerability reports: OpenHTJ2K, V3 Lite, and web service security issues
+- **Real-time personal information leakage prevention using KoBERT and YOLO**
+  - Text/image based sensitive-information detection research
 
 ---
 
-## Awards & Activities
+## 🏆 Awards & Activities
 
-- KITRI White Hat School 3rd generation - Top 20
-- WHS CTF - 2nd place
+- KITRI White Hat School 3rd generation - **Top 20**
+- WHS CTF - **2nd place**
 - Sangmyung University capstone competition awards
 - Korea Institute of Electrical Engineers student paper awards
+- KISIA AI security / malware-analysis training
+- KISIA Security Academy diagnostic-analysis track
 
 ---
 
-## Currently Learning
+## 📚 Currently Learning
 
 - Windows internals and malware behavior
-- Detection engineering with real-world logs
-- Active Directory attack paths and enterprise security
+- Enterprise detection engineering with real-world logs
+- Active Directory attack paths and privilege escalation
 - Cleaner writeups, repeatable lab notes, and automation scripts
 
 ---
 
-## Repositories To Pin
+## 📂 Repositories To Pin
 
-Suggested pins for this profile:
+Recommended repositories to show first:
 
 1. `malware_detection_with_pintool_and_ai`
 2. `security-notes`
